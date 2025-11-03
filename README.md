@@ -8,6 +8,7 @@ Aplicativo de Agenda de Contatos com interface Tkinter e banco de dados SQLite, 
  **Composição** | `Agenda` contém vários objetos `Contato` | Uma agenda é composta por vários contatos.
  
 **Associação** | `AgendaApp` usa `Agenda` | A interface gráfica utiliza a classe `Agenda` para manipular dados. 
+
 **Polimorfismo** | Métodos reutilizados e sobrescritos | Permite adaptar comportamentos de forma flexível. 
 
 ## 🖥️ **Funcionalidades**
