@@ -1,5 +1,6 @@
 # agenda-de-contatos
 Aplicativo de Agenda de Contatos com interface Tkinter e banco de dados SQLite, feito em Python.
+
 ## 🧠 **Conceitos de POO aplicados**
 
 **Encapsulamento** | Na classe `Contato` | Os dados dos contatos ficam protegidos dentro da classe. |
